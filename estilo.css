@@ -42,3 +42,13 @@ h1{
     padding-top: 40px;
     
 }
+
+h2{
+    text-align: center;
+}
+
+.rodape{
+    text-align: center;
+    font-weight: bold;
+    font-size: 10px;
+}
